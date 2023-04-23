@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/milestone_2/static/css/main.bd01d7b6.css",
+    "main.js": "/milestone_2/static/js/main.c5f7bd0f.js",
+    "static/js/787.90401e3a.chunk.js": "/milestone_2/static/js/787.90401e3a.chunk.js",
+    "static/media/pic1.jpg": "/milestone_2/static/media/pic1.e9de86dc2688ae7aec42.jpg",
+    "static/media/pic6.webp": "/milestone_2/static/media/pic6.f423416396a4791f85ba.webp",
+    "static/media/pic2.jpg": "/milestone_2/static/media/pic2.4bc4c36ce99ee4697c67.jpg",
+    "static/media/pic4.jpg": "/milestone_2/static/media/pic4.defc9b4927e75b3a4690.jpg",
+    "static/media/pic5.webp": "/milestone_2/static/media/pic5.311f559acc88a32e7b26.webp",
+    "static/media/hype.jpg": "/milestone_2/static/media/hype.f93bbe4cae9f505c2209.jpg",
+    "static/media/vrutik.jpg": "/milestone_2/static/media/vrutik.6e14ced9f4bdec1e80f1.jpg",
+    "static/media/shriya.png": "/milestone_2/static/media/shriya.f57c44783d48f62d546c.png",
+    "static/media/pic3.webp": "/milestone_2/static/media/pic3.b047186c8c115e7d08c5.webp",
+    "index.html": "/milestone_2/index.html",
+    "main.bd01d7b6.css.map": "/milestone_2/static/css/main.bd01d7b6.css.map",
+    "main.c5f7bd0f.js.map": "/milestone_2/static/js/main.c5f7bd0f.js.map",
+    "787.90401e3a.chunk.js.map": "/milestone_2/static/js/787.90401e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd01d7b6.css",
+    "static/js/main.c5f7bd0f.js"
+  ]
+}
